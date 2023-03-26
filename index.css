@@ -29,14 +29,19 @@ body {
 #clickBox {
     width: 120px;
     margin-left: calc((99% - 280px) /2);
-    /* margin-right: calc((99% + 80px) /2);; */
     margin-top: 10px;
 }
 
 #luckyBox {
     width: 120px;
-    /* margin-left: calc((99% + 250px) /2); */
-    margin-right: calc((99% - 280px) /2);;
+    margin-right: calc((99% - 280px) /2);
+    margin-top: 10px;
+}
+
+#imageClickBox {
+    width: 120px;
+    margin-left: calc((99% - 120px) /2);
+    margin-right: calc((99% - 120px) /2);
     margin-top: 10px;
 }
 
