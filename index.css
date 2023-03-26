@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(32, 33, 36);
+}
+
+#div1 {
+    text-align: end;
+}
+
+.links{
+    color: green;
+    font-family: sans-serif;
+    font-size: medium;
+    margin: 5px;
+}
+
+#div2 {
+    text-align: center;
+    margin-top: 15%;
+}
+
+#searchBox {
+    width: 602px;
+    height: 37px;
+    margin-left: calc((99% - 602px) /2);
+    margin-right: calc((99% - 602px) /2);
+    border-radius: 25px;
+}
+
+#clickBox {
+    width: 120px;
+    margin-left: calc((99% - 280px) /2);
+    /* margin-right: calc((99% + 80px) /2);; */
+    margin-top: 10px;
+}
+
+#luckyBox {
+    width: 120px;
+    /* margin-left: calc((99% + 250px) /2); */
+    margin-right: calc((99% - 280px) /2);;
+    margin-top: 10px;
+}
+
