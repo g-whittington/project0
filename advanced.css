@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+#headingAdvanced{
+    color: rgb(242, 139, 130);
+    padding: 30px;
+    font-size: 20px;
+    border-bottom: 1px solid darkgray;
+}
+
+h6 {
+
+    font-size: 16px;
+    font-weight: 1;
+    color: white;
+    margin-left: 30px;
+    margin-bottom: 20px;
+
+}
+
+.advancedSetup {
+    margin-left: 30px;
+    color: white;
+    font-size: 13px;
+    margin-top: 15px;
+    border-bottom: 17px solid rgb(32, 33, 36);
+}
+
+.advancedInput {
+    color: white;
+    position: relative;
+    background-color:  rgb(32, 33, 36);
+    border: 1px solid darkgray;
+    height: 22px;
+    width: 600px;
+}
+
+#all {
+    left: 88px;
+}
+
+#this {
+    left: 30px;
+}
+
+#any {
+    left: 67px;
+}
+
+#none {
+    left: 59px;
+}
+
+#buttonDiv {
+    margin-top: 15px;
+    margin-left: 690px;
+}
+
+#blueButton {
+    background-color: rgb(138, 180, 248);
+    padding: 8px;
+    color:rgb(32, 33, 36);
+    font-weight: bold;
+    
+}
